@@ -1,3 +1,5 @@
+/* Button should be hot pink */
+
 // import { Button } from './Button';
 import './badButton.css'
 
